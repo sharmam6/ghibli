@@ -1,20 +1,17 @@
-MIT License
+Proprietary License – Ghibli Image Generator
 
-Copyright (c) 2025 DreamLeaf Studios
+Copyright © 2025 Lalit. All rights reserved.
+
+This software and its associated files (the “Software”) are the exclusive intellectual property of the owner (Lalit).
+
+You are NOT permitted to:
+- Copy, reproduce, or distribute this Software
+- Modify or create derivative works based on the Software
+- Use the Software for commercial or personal purposes without prior written consent from the owner
+- Upload or publish the Software, in part or whole, to any public repository, hosting service, or platform
+
+Unauthorized use, duplication, or distribution of this Software is strictly prohibited and may result in legal action under applicable laws.
+
+All rights not expressly granted herein are reserved by the owner.
 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this website and associated files (the "Software"), including but not limited to  
-the source code, documentation, and media content, to use the Software without restriction,  
-including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,  
-and/or sell copies of the Software, and to permit others to whom the Software is furnished to do so,  
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall  
-be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,  
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE  
-AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES  
-OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION  
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
